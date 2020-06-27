@@ -1,2 +1,1 @@
-# fastcampus-help-school.github.io
-Fastcampus 도움말 페이지
+# Fastcampus School 도움말 페이지
